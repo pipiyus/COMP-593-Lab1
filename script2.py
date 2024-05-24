@@ -1,2 +1,2 @@
-print("There should be one-- and preferably only one --obvious way to do it.")
-print("Although that way may not be obvious at first unless you,re Dutch.")
+#This is a good programming advice
+print("If the implementation is hard to explain , it's a bad idea.")
